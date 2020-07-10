@@ -17,7 +17,7 @@
                     "endpoint": {
                         "type": "REST"
                     },
-                    "modelUri": "gs://seldon-models/sklearn/iris",
+                    "modelUri": "gs://seldon-models/sklearn/income",
                     "logger": {
                         "mode": "all"
                     }
@@ -25,7 +25,7 @@
                 "componentSpecs": [
                     {
                         "metadata": {
-                            "creationTimestamp": "2020-07-10T09:55:23Z"
+                            "creationTimestamp": "2020-07-10T10:05:23Z"
                         },
                         "spec": {
                             "containers": [
